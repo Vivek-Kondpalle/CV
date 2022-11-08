@@ -1,0 +1,9 @@
+.appContainer{
+    margin: 0 15%
+}
+
+@media screen and (max-width: 480px) {
+    .appContainer{
+        margin: 0 2%;
+    }
+}
